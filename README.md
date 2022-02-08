@@ -6,4 +6,3 @@ My name is Ida Bagus Ketut Yoghantara and i'm a student from ITB Stikom Bali. i'
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoghantara08&layout=compact&theme=vue-dark&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![GitHub yoghantara08](https://img.shields.io/github/followers/yoghantara08?label=follow&style=social)](https://github.com/yoghantara08)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yoghantara08.visitor-badge)
