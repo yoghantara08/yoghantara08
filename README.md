@@ -21,5 +21,5 @@ My name is Ida Bagus Ketut Yoghantara and i'm a student from ITB Stikom Bali. i'
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/yoghantara08/TaraCafe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yoghantara08&repo=TaraCafe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&theme=vue-dark&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/yoghantara08/TaraCafe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yoghantara08&repo=TaraCafe&text_color=C1CFC0&title_color=E7E0C9&theme=vue-dark&hide_border=true&locale=en" /></a></div>
 
