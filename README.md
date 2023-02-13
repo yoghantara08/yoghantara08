@@ -2,14 +2,14 @@
 
 My name is [Ida Bagus Ketut Yoghantara](https://yoghantara.vercel.app), I'm a student from ITB Stikom Bali majoring in Information Systems and Lithan EduClaas majoring in Software Engineering. I'm currently learning about Web Developer. This Github will be witnesses of my long journey.
 
-## 📞 Connect With Me:
+## 📞 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyoghantara@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoghantara/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gustutyoghantara/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/853617679588261899)
 
-## 💻 Technologies & Tools:
+## 💻 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,7 +35,7 @@ My name is [Ida Bagus Ketut Yoghantara](https://yoghantara.vercel.app), I'm a st
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 📊 My Github Stats:
+## 📊 My Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoghantara08&theme=vue-dark)](https://git.io/streak-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoghantara08&theme=vue-dark&show_icons=true&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
