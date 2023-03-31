@@ -1,6 +1,6 @@
 # Hello! 😄
 
-My name is [Ida Bagus Ketut Yoghantara](https://yoghantara.vercel.app), I'm a student from ITB Stikom Bali majoring in Information Systems and Lithan EduClaas majoring in Software Engineering. I'm currently learning about Web Developer. This Github will be witnesses of my long journey.
+My name is [Ida Bagus Ketut Yoghantara](https://yoghantara.vercel.app), and I am an undergraduate student at ITB Stikom Bali, majoring in Information Systems. I am currently studying Web Development, and this Github account will serve as a witness to my long journey of learning and growth in this field.
 
 ## 📞 Connect with me
 
