@@ -21,6 +21,7 @@ My name is [Ida Bagus Ketut Yoghantara](https://yoghantara.vercel.app), I'm a We
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-F97316?style=for-the-badge&color=F97316) 
 ![Hardhat](https://img.shields.io/badge/Hardhat-F5F5F5?style=for-the-badge&labelColor=F5F5F5&color=FACC15) 
 ![viem](https://img.shields.io/badge/viem-6B7280?style=for-the-badge&color=6B7280) 
