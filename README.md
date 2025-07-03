@@ -38,4 +38,4 @@ My name is [Ida Bagus Ketut Yoghantara](https://yoghantara.vercel.app), I'm a We
 ## 📊 My Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoghantara08&theme=vue-dark)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoghantara08&layout=compact&theme=vue-dark&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoghantara08&hide=html,css&layout=compact&theme=vue-dark&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
